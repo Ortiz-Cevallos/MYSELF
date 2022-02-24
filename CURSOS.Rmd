@@ -1,0 +1,15 @@
+---
+
+---
+
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+## Cursos impartidos
+
+- Microeconomía de la banca [MATERIAL DIDÁCTICO](files/MICRO.pdf).
+
+- Macroeconomía internacional [MATERIAL DIDÁCTICO](files/MACRO.pdf).
+
