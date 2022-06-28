@@ -1,6 +1,9 @@
 ---
 title: "Publicaciones"
 ---
+-  <strong>Ortiz, L.</strong> (2022). PROPUESTA PARA LA IDENTIFICACIÓN DE LOS EFECTOS DINÁMICOS EN LAS REMESAS PROVENIENTES DE ESTADOS UNIDOS DE AMÉRICA. Notas Económicas Regionales No. 134, junio 2022. Secretaría Ejecutiva del Consejo Monetario Centroamericano. <a href="https://www.secmca.org/wp-content/uploads/2022/06/NOTA_ECON%C3%93MICA_134_JUNIO_22_LUIS_ORTIZ.pdf" class="email">[PDF]</a> 
+
+
 -  <strong>Ortiz, L.</strong> (2022). REMESAS EN UN ENTORNO DE TRANSFORMACIÓN DE LOS SERVICIOS FINANCIEROS: IDENTIFICANDO SU VÍNCULO CON LOS DEPÓSITOS BANCARIOS EN EL TRIÁNGULO NORTE DE CENTROAMÉRICA. Documento de Trabajo No. 1. Secretaría Ejecutiva del Consejo Monetario Centroamericano. <a href="https://www.secmca.org/wp-content/uploads/2022/02/REMESAS-EN-UN-ENTORNO-DE-TRANSFORMACI%C3%93N.pdf" class="email">[PDF]</a> 
 
 

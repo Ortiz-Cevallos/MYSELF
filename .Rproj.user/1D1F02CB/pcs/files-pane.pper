@@ -1,9 +1,9 @@
 {
-    "path" : "C:/Users/lortiz/Desktop/WEB_PAGE_MYSELF",
-    "sortOrder" : [
+    "path": "C:/Users/lortiz/Desktop/WEB_PAGE_MYSELF",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
